@@ -15,13 +15,6 @@ np.set_printoptions(suppress=True, formatter={ 'float_kind' : '{:0.2f}'.format }
 
 
 
-'''
-- Is there a correlation between more participation and more yes votes?
-- Is there a consistent relative distribution of participation for every voting cycle, and if so, what is the distribution?
-- For each voting cycle, what can be deduced from maps lacking in participation when compared to maps with most participation?
-- What % yes votes is required if a certain % of all maps voted on are to be loved?
-'''
-
 ROUND         = 0
 END_TIME      = 1
 GAMEMODE      = 2
